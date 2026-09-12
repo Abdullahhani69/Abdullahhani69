@@ -97,8 +97,7 @@ Time-series analysis and forecasting of air pollution data using historical PM2.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn]
-* 📧 Email: [Add your professional email]
+* 📧 Email: Abdullahhani36@gmail.com
 
 ---
 
